@@ -1,16 +1,24 @@
-## Hi there 👋
+# 👋 Hi, I'm Endale
 
-<!--
-**endalegezahegn01-cpu/endalegezahegn01-cpu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💡 Aspiring Data Engineer | BSc in Computer Engineering  
+💼 Currently working at CBE as Technical IS Officer  
+🚀 Passionate about Data Engineering, ETL pipelines, and Cloud Technologies  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack
+- **Languages**: Python, SQL, JavaScript  
+- **Frameworks & Tools**: Node.js, React, Vite, Tailwind CSS  
+- **Databases**: MySQL, PostgreSQL  
+- **Version Control**: Git & GitHub  
+
+---
+
+## 📌 Featured Projects
+-   
+
+---
+
+## 📫 Connect With Me
+- LinkedIn: []  
+- Email: endalegezahegn01@gmail.com  
